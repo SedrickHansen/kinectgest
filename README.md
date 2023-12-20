@@ -4,7 +4,7 @@ Kinect Gesture Recognizer
 fyhuang, zhifanz
 
 
-# What is this?
+  What is this?
 
 This is a gesture recognition project using the Kinect, written in C#. It uses a logistic regression and hand-coded features to achieve very high (> 90%) accuracy. In addition, there is a crude system for segmenting gestures in real-time, enabling fairly good real-time recognition.
 
@@ -74,3 +74,4 @@ ViewGesture controls:
 * Left Shift    hold to slow down speed of camera rotate and frame advance
 
 Note that frames are interpolated, so even slow movement is quite smooth. In addition, the 'S' key outputs interpolated frames.
+ 
